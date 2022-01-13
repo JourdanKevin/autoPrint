@@ -1,0 +1,15 @@
+C:\applocal\vs\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe.config
+C:\applocal\vs\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+C:\applocal\vs\AutoPrint\AutoPrint\bin\Debug\AutoPrint.pdb
+C:\applocal\vs\AutoPrint\AutoPrint\obj\Debug\MainWindow.g.cs
+C:\applocal\vs\AutoPrint\AutoPrint\obj\Debug\App.g.cs
+C:\applocal\vs\AutoPrint\AutoPrint\obj\Debug\AutoPrint_MarkupCompile.cache
+C:\applocal\vs\AutoPrint\AutoPrint\obj\Debug\AutoPrint_MarkupCompile.lref
+C:\applocal\vs\AutoPrint\AutoPrint\obj\Debug\MainWindow.baml
+C:\applocal\vs\AutoPrint\AutoPrint\obj\Debug\AutoPrint.g.resources
+C:\applocal\vs\AutoPrint\AutoPrint\obj\Debug\AutoPrint.Properties.Resources.resources
+C:\applocal\vs\AutoPrint\AutoPrint\obj\Debug\AutoPrint.csproj.GenerateResource.cache
+C:\applocal\vs\AutoPrint\AutoPrint\obj\Debug\AutoPrint.csproj.CoreCompileInputs.cache
+C:\applocal\vs\AutoPrint\AutoPrint\obj\Debug\AutoPrint.exe
+C:\applocal\vs\AutoPrint\AutoPrint\obj\Debug\AutoPrint.pdb
+C:\applocal\vs\AutoPrint\AutoPrint\obj\Debug\AutoPrint.csprojAssemblyReference.cache
